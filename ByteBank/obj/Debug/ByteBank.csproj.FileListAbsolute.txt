@@ -1,0 +1,7 @@
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\csharpexceptions-master\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\csharpexceptions-master\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\csharpexceptions-master\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\csharpexceptions-master\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\csharpexceptions-master\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\csharpexceptions-master\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\Karoline Lopes\Documents\Cursos-Alura\Cursos em C# e ASPNet\csharpexceptions-master\ByteBank\obj\Debug\ByteBank.pdb
